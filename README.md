@@ -1,5 +1,7 @@
 ### Hi there 👋 Eu sou o Leonardo!!
 
+Sou um apaixonado por tecnologia que no momento esta desbravando esse mundo das linguagens e tentando aprender o máximo que conseguir.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
