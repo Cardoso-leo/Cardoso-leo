@@ -1,4 +1,4 @@
-### Hi there 👋 Eu sou o Leonardo!!
+### Olá 👋 Eu sou o Leonardo!!
 
 Sou um apaixonado por tecnologia que no momento esta desbravando esse mundo das linguagens e tentando aprender o máximo que conseguir.
 
