@@ -13,3 +13,4 @@ Sou um apaixonado por tecnologia que no momento esta desbravando esse mundo das 
 <div> 
 <a href="https://www.linkedin.com/in/leonardo-l-cardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+...
