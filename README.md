@@ -1,4 +1,4 @@
-### Olá 👋 Eu sou o Leonardo!!
+### Hey!!! I'm Leo!!
 
 Passionate about technology, exploring the world of programming and continuously learning new languages.
 
