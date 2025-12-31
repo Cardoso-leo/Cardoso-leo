@@ -1,6 +1,8 @@
-### Hey!!! I'm Leo!!
+### Hey!!! I'm Leo 👋
 
-Passionate about technology, exploring the world of programming and continuously learning new languages.
+Data Analyst with a background in Business Administration.  
+Tech and data enthusiast, constantly learning and building skills to transform data into insights.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
