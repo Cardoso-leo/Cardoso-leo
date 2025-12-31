@@ -1,6 +1,6 @@
 ### Olá 👋 Eu sou o Leonardo!!
 
-Sou um apaixonado por tecnologia que no momento esta desbravando esse mundo das linguagens e tentando aprender o máximo que conseguir.
+Passionate about technology, exploring the world of programming and continuously learning new languages.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -13,4 +13,4 @@ Sou um apaixonado por tecnologia que no momento esta desbravando esse mundo das 
 <div> 
 <a href="https://www.linkedin.com/in/leonardo-l-cardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-...
+
