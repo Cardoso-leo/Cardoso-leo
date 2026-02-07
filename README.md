@@ -1,4 +1,4 @@
-### Hey, I'm Leo 💻
+### Hey, I'm Leo!! 💻
 
 Data Analyst with a background in Business Administration.  
 Tech and data enthusiast, constantly learning and building skills to transform data into insights.
